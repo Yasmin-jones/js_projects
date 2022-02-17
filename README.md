@@ -8,9 +8,13 @@ Beginner friendly projects
 - An interactive to do list 
 - Form and password validation 
 
-
-
-
-
 Testing frameworks:
+
+Single page applications: 
+
+Progressive web apps:
+
+Creating a Landing Page using Greensock Animation API (GSAP):
+
+Full Stack app using NodeJS:
 
