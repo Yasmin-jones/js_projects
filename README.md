@@ -5,7 +5,7 @@ This is my javascript portfolio containing various javascript and Node.js projec
 Projects included:
 
 Beginner friendly projects
-- An iteractive to do list 
+- An interactive to do list 
 - Form and password validation 
 
 
