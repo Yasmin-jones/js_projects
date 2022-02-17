@@ -1,6 +1,6 @@
 # js_projects
 
-This is my javascript portfolio containing various javascript and Node.js projects that has contributed to my development and learning in my developer journey
+This is my javascript portfolio containing various javascript and Node.js projects that has contributed to my growth and upskilling of my developer journey.
 
 Projects included:
 
