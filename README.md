@@ -18,4 +18,4 @@ Creating a Landing Page using Greensock Animation API (GSAP):
 Full Stack app using NodeJS:
 
 Testing frameworks:
-
+- Jest framework for javascript unit testing
