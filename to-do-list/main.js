@@ -16,7 +16,7 @@ addToDoButton.addEventListener('click', function(){
         paragraph.style.textDecoration = "line-through";
     })
     //deleting the pasted text once double clicked
-    paragraph.addEventListener('dblclick', function(){
+    paragraph.addEventListener('dblclick', function(e){
         paragraph.removeChild(paragraph);
     })
 

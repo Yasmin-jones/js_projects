@@ -1,0 +1,14 @@
+{
+  "name": "jest-testing",
+  "version": "1.0.0",
+  "description": "practice tests",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "YJ",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
